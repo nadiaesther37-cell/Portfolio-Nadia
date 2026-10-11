@@ -1,0 +1,44 @@
+[
+  {
+    "titre": "Site vitrine",
+    "description": "Page pour une association.",
+    "categorie": "web",
+    "image": "img/projet1.jpg",
+    "lien": "#"
+  },
+  {
+    "titre": "Script de tri",
+    "description": "Un script Python de tri de fichiers.",
+    "categorie": "python",
+    "image": "img/projet2.jpg",
+    "lien": "#"
+  },
+  {
+    "titre": "Portfolio",
+    "description": "Page personnelle responsive et interactive.",
+    "categorie": "web",
+    "image": "img/projet3.jpg",
+    "lien": "#"
+  },
+  {
+    "titre": "Calculatrice",
+    "description": "Calculatrice simple en JavaScript.",
+    "categorie": "web",
+    "image": "img/projet4.jpg",
+    "lien": "#"
+  },
+  {
+    "titre": "Analyse de notes",
+    "description": "Un script Python de calcul de moyennes.",
+    "categorie": "python",
+    "image": "img/projet5.jpg",
+    "lien": "#"
+  },
+  {
+    "titre": "Convertisseur",
+    "description": "Un script Python de conversion d'unités.",
+    "categorie": "python",
+    "image": "img/projet6.jpg",
+    "lien": "#"
+  }
+]
